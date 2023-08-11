@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-08-11T14:19:08</date>
+  <millis>1691752748693</millis>
+  <sequence>0</sequence>
+  <logger>com.star.studdapp.Main</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:10</date>
+  <millis>1691752750072</millis>
+  <sequence>1</sequence>
+  <logger>com.star.studdapp.io.XlsReader</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Excel reading started</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:24</date>
+  <millis>1691752764427</millis>
+  <sequence>2</sequence>
+  <logger>com.star.studdapp.io.XlsReader</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Excel reading finished successfully</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:24</date>
+  <millis>1691752764529</millis>
+  <sequence>3</sequence>
+  <logger>com.star.studdapp.io.XlsReader</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Excel reading started</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:24</date>
+  <millis>1691752764942</millis>
+  <sequence>4</sequence>
+  <logger>com.star.studdapp.io.XlsReader</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.XlsReader</class>
+  <method>readXlsStudents</method>
+  <thread>1</thread>
+  <message>Excel reading finished successfully</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:25</date>
+  <millis>1691752765092</millis>
+  <sequence>5</sequence>
+  <logger>com.star.studdapp.io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing started</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:27</date>
+  <millis>1691752767655</millis>
+  <sequence>6</sequence>
+  <logger>com.star.studdapp.io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing finished successfully</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:27</date>
+  <millis>1691752767694</millis>
+  <sequence>7</sequence>
+  <logger>com.star.studdapp.io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:30</date>
+  <millis>1691752770778</millis>
+  <sequence>8</sequence>
+  <logger>com.star.studdapp.io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:30</date>
+  <millis>1691752770800</millis>
+  <sequence>9</sequence>
+  <logger>com.star.studdapp.io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:31</date>
+  <millis>1691752771674</millis>
+  <sequence>10</sequence>
+  <logger>com.star.studdapp.io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-08-11T14:19:31</date>
+  <millis>1691752771681</millis>
+  <sequence>11</sequence>
+  <logger>com.star.studdapp.Main</logger>
+  <level>INFO</level>
+  <class>com.star.studdapp.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
